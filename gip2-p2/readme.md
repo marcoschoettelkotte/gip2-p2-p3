@@ -1,81 +1,81 @@
 # Eine Liga
-
+<br />
 GIP2-Praktikumsufgabe 2 und 3
-
+<br />
 Consolenbeispiel:
-
-8
-AUN
-AAW
-OKQ
-MPX
-GSF
-ISJ
-QSF
-XDC
-GSF 2 1 AUN
-MPX 3 0 XDC
-ISJ 0 1 MPX
-XDC 2 0 AUN
-GSF 0 3 MPX
-ISJ 0 0 QSF
-ISJ 1 1 OKQ
-QSF 2 0 AAW
-QSF 4 2 XDC
-MPX 1 2 GSF
-AUN 1 4 MPX
-AUN 1 1 QSF
-AAW 0 4 XDC
-AAW 0 2 GSF
-MPX 0 0 QSF
-MPX 1 1 OKQ
-OKQ 0 1 AAW
-OKQ 1 2 XDC
-OKQ 1 0 ISJ
-GSF 2 2 XDC
-XDC 2 1 OKQ
-ISJ 0 3 AAW
-QSF 1 5 OKQ
-GSF 1 6 ISJ
-ISJ 1 0 GSF
-GSF 0 2 QSF
-XDC 0 0 AAW
-AAW 0 1 MPX
-QSF 1 0 GSF
-QSF 0 1 ISJ
-XDC 1 1 ISJ
-AAW 0 0 AUN
-MPX 0 1 AUN
-AAW 1 2 QSF
-OKQ 1 2 GSF
-OKQ 1 1 AUN
-MPX 0 0 AAW
-MPX 0 0 ISJ
-QSF 2 4 MPX
-XDC 2 0 GSF
-AAW 0 4 OKQ
-XDC 1 0 MPX
-GSF 1 1 OKQ
-AUN 0 1 OKQ
-GSF 0 2 AAW
-AUN 1 0 XDC
-AUN 0 1 AAW
-ISJ 2 0 AUN
-AAW 2 1 ISJ
-QSF 1 5 AUN
-AUN 2 0 GSF
-XDC 1 0 QSF
-AUN 0 2 ISJ
-ISJ 0 1 XDC
-OKQ 1 0 QSF
-OKQ 2 0 MPX
-
-Output:
-XDC 14 27 20:13 +7 
-OKQ 14 22 21:12 +9 
-MPX 14 22 18:10 +8 
-ISJ 14 19 15:11 +4 
-QSF 14 18 16:21 -5 
-AAW 14 18 10:16 -6 
-AUN 14 15 13:17 -4 
-GSF 14 14 12:25 -13
+<br />
+8<br />
+AUN<br />
+AAW<br />
+OKQ<br />
+MPX<br />
+GSF<br />
+ISJ<br />
+QSF<br />
+XDC<br />
+GSF 2 1 AUN<br />
+MPX 3 0 XDC<br />
+ISJ 0 1 MPX<br />
+XDC 2 0 AUN<br />
+GSF 0 3 MPX<br />
+ISJ 0 0 QSF<br />
+ISJ 1 1 OKQ<br />
+QSF 2 0 AAW<br />
+QSF 4 2 XDC<br />
+MPX 1 2 GSF<br />
+AUN 1 4 MPX<br />
+AUN 1 1 QSF<br />
+AAW 0 4 XDC<br />
+AAW 0 2 GSF<br />
+MPX 0 0 QSF<br />
+MPX 1 1 OKQ<br />
+OKQ 0 1 AAW<br />
+OKQ 1 2 XDC<br />
+OKQ 1 0 ISJ<br />
+GSF 2 2 XDC<br />
+XDC 2 1 OKQ<br />
+ISJ 0 3 AAW<br />
+QSF 1 5 OKQ<br />
+GSF 1 6 ISJ<br />
+ISJ 1 0 GSF<br />
+GSF 0 2 QSF<br />
+XDC 0 0 AAW<br />
+AAW 0 1 MPX<br />
+QSF 1 0 GSF<br />
+QSF 0 1 ISJ<br />
+XDC 1 1 ISJ<br />
+AAW 0 0 AUN<br />
+MPX 0 1 AUN<br />
+AAW 1 2 QSF<br />
+OKQ 1 2 GSF<br />
+OKQ 1 1 AUN<br />
+MPX 0 0 AAW<br />
+MPX 0 0 ISJ<br />
+QSF 2 4 MPX<br />
+XDC 2 0 GSF<br />
+AAW 0 4 OKQ<br />
+XDC 1 0 MPX<br />
+GSF 1 1 OKQ<br />
+AUN 0 1 OKQ<br />
+GSF 0 2 AAW<br />
+AUN 1 0 XDC<br />
+AUN 0 1 AAW<br />
+ISJ 2 0 AUN<br />
+AAW 2 1 ISJ<br />
+QSF 1 5 AUN<br />
+AUN 2 0 GSF<br />
+XDC 1 0 QSF<br />
+AUN 0 2 ISJ<br />
+ISJ 0 1 XDC<br />
+OKQ 1 0 QSF<br />
+OKQ 2 0 MPX<br />
+<br />
+Output:<br />
+XDC 14 27 20:13 +7<br />
+OKQ 14 22 21:12 +9<br />
+MPX 14 22 18:10 +8<br />
+ISJ 14 19 15:11 +4<br />
+QSF 14 18 16:21 -5<br />
+AAW 14 18 10:16 -6<br />
+AUN 14 15 13:17 -4<br />
+GSF 14 14 12:25 -13<br />
